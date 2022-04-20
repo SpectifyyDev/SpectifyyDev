@@ -1,4 +1,4 @@
-- Hello, my name is Coda..
+- Hello
 
 <!---
 SpectifyyDev/SpectifyyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
