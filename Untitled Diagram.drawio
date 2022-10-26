@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T19:21:05.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="vMl7VodXoF2GSAR2kOww" type="github"><diagram id="B6PBSwqGgatIm-AGSIhw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-26T19:36:17.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iUiN8tvHarPBOci9-Gh6" version="20.5.1" type="github">
+  <diagram id="B6PBSwqGgatIm-AGSIhw" name="Page-1">
+    <mxGraphModel dx="313" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-1" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;William Afton marries an unnamed wife&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="140" as="sourcePoint" />
+            <mxPoint x="60" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-7" value="circa. early 1975" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5ZSGBYHl8922ecz_iBRz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="140" as="sourcePoint" />
+            <mxPoint x="120" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-9" value="Michael Afton is born" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="140" as="sourcePoint" />
+            <mxPoint x="160" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-11" value="(around) 1978" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="100" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-13" value="" style="endArrow=none;html=1;rounded=0;fontSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="54.8" as="sourcePoint" />
+            <mxPoint x="220" y="54.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-14" value="Evan and Elizabeth Afton are born" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-17" value="Charlotte Emily is born" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZSGBYHl8922ecz_iBRz-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=7;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZSGBYHl8922ecz_iBRz-17" target="5ZSGBYHl8922ecz_iBRz-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="140" as="sourcePoint" />
+            <mxPoint x="300" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
